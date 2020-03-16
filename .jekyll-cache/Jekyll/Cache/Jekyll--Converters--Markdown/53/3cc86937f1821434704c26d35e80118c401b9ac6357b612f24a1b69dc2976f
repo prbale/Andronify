@@ -1,0 +1,87 @@
+I"�<p>Benefits of Code Review</p>
+
+<p>Multiple eyes on a piece of code. Finding bugs early.
+Coding standards compliance
+Consistent design and implementation. Better Structured code.
+Team cohesion
+Learn how to write better code
+Teaching and Sharing Knowledge. Mentoring tool.</p>
+
+<p>Guidelines for Authors
+ Before raising PR:</p>
+<ul>
+  <li>Code is “complete as possible”</li>
+  <li>Small Pull Request.</li>
+  <li>In case of Long Request, “Point out important parts”</li>
+  <li>Explain changes in PR Description along with JIRA story links</li>
+  <li>Read the checklist and mark the things which you have considered for this PR</li>
+  <li>Pull Request Title : Use JIRA ticket and useful title description</li>
+</ul>
+
+<p>After Raising PR:</p>
+<ul>
+  <li>Be grateful for the reviewer’s suggestions.
+ e.g. Good call. I’ll make that change., Whoops. Good catch, thanks. Fixed in a4994ec.</li>
+  <li>A common axiom is “Don’t take it personally. The review is of the code, not you.”</li>
+  <li>Try to respond to every comment.</li>
+</ul>
+
+<p>Guidelines for Reviewers</p>
+<ul>
+  <li>Don’t nitpick - Focus on the correctness of code. Less focus whitespaces/variable names.</li>
+  <li>Don’t be a jerk - No harsh comments plz</li>
+  <li>Ask good questions; don’t make demands.</li>
+  <li>Avoid selective ownership of code. (“mine”, “not mine”, “yours”)</li>
+  <li>Provide Examples  ( Small code snippets will do )</li>
+  <li>Seek first to understand</li>
+</ul>
+
+<p>Tools and General Advise:</p>
+<ul>
+  <li>Schedule time for PR’s</li>
+  <li>Automate with code linting</li>
+  <li>Use a checklist</li>
+</ul>
+
+<p>Pull Request Template:</p>
+
+<p>To add this template to GitHub project, You just have to create “pull-request-template.md” file in root directory.
+ Below is the sample format for the PR template.</p>
+
+<p>```</p>
+
+<h1 id="description">Description</h1>
+
+<p>Please include a explaination of the change. Please also include relevant motivation and context. List any dependencies that are required for this change.</p>
+
+<p>JIRA Ticket link:</p>
+
+<p>Please delete options that are not relevant.</p>
+
+<ul class="task-list">
+  <li class="task-list-item"><input type="checkbox" class="task-list-item-checkbox" disabled="disabled" />Bug fix</li>
+  <li class="task-list-item"><input type="checkbox" class="task-list-item-checkbox" disabled="disabled" />New feature</li>
+  <li class="task-list-item"><input type="checkbox" class="task-list-item-checkbox" disabled="disabled" />Breaking change</li>
+  <li class="task-list-item"><input type="checkbox" class="task-list-item-checkbox" disabled="disabled" />This change requires a documentation update</li>
+</ul>
+
+<h1 id="how-has-this-been-tested">How Has This Been Tested?</h1>
+
+<p>Please describe the tests that you ran to verify your changes. Provide instructions so we can reproduce. Please also list any relevant details for your test configuration</p>
+
+<ul class="task-list">
+  <li class="task-list-item"><input type="checkbox" class="task-list-item-checkbox" disabled="disabled" />Test A</li>
+  <li class="task-list-item"><input type="checkbox" class="task-list-item-checkbox" disabled="disabled" />Test B</li>
+</ul>
+
+<h1 id="checklist">Checklist:</h1>
+
+<ul class="task-list">
+  <li class="task-list-item"><input type="checkbox" class="task-list-item-checkbox" disabled="disabled" />My code follows the style guidelines of this project</li>
+  <li class="task-list-item"><input type="checkbox" class="task-list-item-checkbox" disabled="disabled" />I have performed a self-review of my own code</li>
+  <li class="task-list-item"><input type="checkbox" class="task-list-item-checkbox" disabled="disabled" />I have commented my code, particularly in hard-to-understand areas</li>
+  <li class="task-list-item"><input type="checkbox" class="task-list-item-checkbox" disabled="disabled" />I have made corresponding changes to the documentation</li>
+  <li class="task-list-item"><input type="checkbox" class="task-list-item-checkbox" disabled="disabled" />Unit test cases added for this change.</li>
+  <li class="task-list-item"><input type="checkbox" class="task-list-item-checkbox" disabled="disabled" />Considered accessibility for UI change                                                                                                                                                                                                      - [ ] There are no merge conflicts                                                                                                                                                                                                                                                              .                                                                                                                                                                                      # Impacted Areas in Application                                                         List general components of the application that this PR will affect.</li>
+</ul>
+:ET
