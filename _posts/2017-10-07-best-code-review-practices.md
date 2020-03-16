@@ -2,6 +2,7 @@
 layout: post
 title:  "Best practices for Code Review"
 author: prashant
+featured: true
 image: assets/images/code_review.jpg
 categories: [ coding, development ]
 ---
