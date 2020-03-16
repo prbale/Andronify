@@ -1,0 +1,19 @@
+---
+layout: page
+title: About me
+permalink: /about
+comments: true
+---
+
+<div class="row justify-content-between">
+
+<div class="col-md-8 pr-5">
+
+<p>Name: Prashant Bale</p>
+<p>Contact: bale.prashant1984@gmail.com</p>
+<br>
+<p>Other Websites: https://www.incrediblesahyadri.com</p>
+
+</div>
+
+</div>
