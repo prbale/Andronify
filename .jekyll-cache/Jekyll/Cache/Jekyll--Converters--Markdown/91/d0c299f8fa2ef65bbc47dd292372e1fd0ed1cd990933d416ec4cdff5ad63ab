@@ -1,4 +1,4 @@
-I"42
+I"01
 <!-- Featured
 ================================================== -->
 <section class="featured-posts">
@@ -60,11 +60,11 @@
 <div class="col-lg-4 col-md-6 mb-30px card-group">
     <div class="card h-100">
         <div class="maxthumb">
-            <a href="/mediumish-theme-jekyll/best-code-review-practices/">
+            <a href="/androidblogs/best-code-review-practices/">
                 
 
                     
-                        <img class="img-fluid" src="/mediumish-theme-jekyll/assets/images/code_review.jpg" alt="Best practices for Code Review" /> 
+                        <img class="img-fluid" src="/androidblogs/assets/images/code_review.jpg" alt="Best practices for Code Review" /> 
                     
 
                 
@@ -72,7 +72,7 @@
         </div>
         <div class="card-body">
             <h2 class="card-title">
-                <a class="text-dark" href="/mediumish-theme-jekyll/best-code-review-practices/">Best practices for Code Review</a>
+                <a class="text-dark" href="/androidblogs/best-code-review-practices/">Best practices for Code Review</a>
                 
             </h2>
             <h4 class="card-text">Benefits of Code Review
@@ -83,7 +83,7 @@
                 
                 <span class="meta-footer-thumb">
                 
-                <img class="author-thumb" src="/mediumish-theme-jekyll/assets/images/avatar.png" alt="Prashant Bale" />
+                <img class="author-thumb" src="/androidblogs/assets/images/avatar.png" alt="Prashant Bale" />
                 
                 </span>
                 <span class="author-meta">
@@ -91,7 +91,7 @@
                 
                 <span class="post-date">07 Oct 2017</span>
                 </span>
-                <span class="post-read-more"><a href="/mediumish-theme-jekyll/best-code-review-practices/" title="Read Story"><svg class="svgIcon-use" width="25" height="25" viewbox="0 0 25 25"><path d="M19 6c0-1.1-.9-2-2-2H8c-1.1 0-2 .9-2 2v14.66h.012c.01.103.045.204.12.285a.5.5 0 0 0 .706.03L12.5 16.85l5.662 4.126a.508.508 0 0 0 .708-.03.5.5 0 0 0 .118-.285H19V6zm-6.838 9.97L7 19.636V6c0-.55.45-1 1-1h9c.55 0 1 .45 1 1v13.637l-5.162-3.668a.49.49 0 0 0-.676 0z" fill-rule="evenodd"></path></svg></a></span>
+                <span class="post-read-more"><a href="/androidblogs/best-code-review-practices/" title="Read Story"><svg class="svgIcon-use" width="25" height="25" viewbox="0 0 25 25"><path d="M19 6c0-1.1-.9-2-2-2H8c-1.1 0-2 .9-2 2v14.66h.012c.01.103.045.204.12.285a.5.5 0 0 0 .706.03L12.5 16.85l5.662 4.126a.508.508 0 0 0 .708-.03.5.5 0 0 0 .118-.285H19V6zm-6.838 9.97L7 19.636V6c0-.55.45-1 1-1h9c.55 0 1 .45 1 1v13.637l-5.162-3.668a.49.49 0 0 0-.676 0z" fill-rule="evenodd"></path></svg></a></span>
                 <div class="clearfix"></div>
             </div>
         </div>
@@ -107,13 +107,13 @@
 <div class="col-lg-4 col-md-6 mb-30px card-group">
     <div class="card h-100">
         <div class="maxthumb">
-            <a href="/mediumish-theme-jekyll/auth-autho-encr/">
+            <a href="/androidblogs/auth-autho-encr/">
                 
             </a>
         </div>
         <div class="card-body">
             <h2 class="card-title">
-                <a class="text-dark" href="/mediumish-theme-jekyll/auth-autho-encr/">Understanding Authentication, Authorization, and Encryption</a>
+                <a class="text-dark" href="/androidblogs/auth-autho-encr/">Understanding Authentication, Authorization, and Encryption</a>
                 
             </h2>
             <h4 class="card-text">Understanding Authentication, Authorization, and Encryption Authentication Authentication is an absolutely essential element of a typical security model. It is the process of confirming the identification of a user (or in...</h4>
@@ -123,7 +123,7 @@
                 
                 <span class="meta-footer-thumb">
                 
-                <img class="author-thumb" src="/mediumish-theme-jekyll/assets/images/avatar.png" alt="Prashant Bale" />
+                <img class="author-thumb" src="/androidblogs/assets/images/avatar.png" alt="Prashant Bale" />
                 
                 </span>
                 <span class="author-meta">
@@ -131,7 +131,7 @@
                 
                 <span class="post-date">22 Nov 2016</span>
                 </span>
-                <span class="post-read-more"><a href="/mediumish-theme-jekyll/auth-autho-encr/" title="Read Story"><svg class="svgIcon-use" width="25" height="25" viewbox="0 0 25 25"><path d="M19 6c0-1.1-.9-2-2-2H8c-1.1 0-2 .9-2 2v14.66h.012c.01.103.045.204.12.285a.5.5 0 0 0 .706.03L12.5 16.85l5.662 4.126a.508.508 0 0 0 .708-.03.5.5 0 0 0 .118-.285H19V6zm-6.838 9.97L7 19.636V6c0-.55.45-1 1-1h9c.55 0 1 .45 1 1v13.637l-5.162-3.668a.49.49 0 0 0-.676 0z" fill-rule="evenodd"></path></svg></a></span>
+                <span class="post-read-more"><a href="/androidblogs/auth-autho-encr/" title="Read Story"><svg class="svgIcon-use" width="25" height="25" viewbox="0 0 25 25"><path d="M19 6c0-1.1-.9-2-2-2H8c-1.1 0-2 .9-2 2v14.66h.012c.01.103.045.204.12.285a.5.5 0 0 0 .706.03L12.5 16.85l5.662 4.126a.508.508 0 0 0 .708-.03.5.5 0 0 0 .118-.285H19V6zm-6.838 9.97L7 19.636V6c0-.55.45-1 1-1h9c.55 0 1 .45 1 1v13.637l-5.162-3.668a.49.49 0 0 0-.676 0z" fill-rule="evenodd"></path></svg></a></span>
                 <div class="clearfix"></div>
             </div>
         </div>
@@ -147,11 +147,11 @@
 <div class="col-lg-4 col-md-6 mb-30px card-group">
     <div class="card h-100">
         <div class="maxthumb">
-            <a href="/mediumish-theme-jekyll/save-sensitive-info-using-keystore/">
+            <a href="/androidblogs/save-sensitive-info-using-keystore/">
                 
 
                     
-                        <img class="img-fluid" src="/mediumish-theme-jekyll/assets/images/android-keystore.jpg" alt="Protect sensitive information or credentials using Android Keystore" /> 
+                        <img class="img-fluid" src="/androidblogs/assets/images/android-keystore.jpg" alt="Protect sensitive information or credentials using Android Keystore" /> 
                     
 
                 
@@ -159,7 +159,7 @@
         </div>
         <div class="card-body">
             <h2 class="card-title">
-                <a class="text-dark" href="/mediumish-theme-jekyll/save-sensitive-info-using-keystore/">Protect sensitive information or credentials using Android Keystore</a>
+                <a class="text-dark" href="/androidblogs/save-sensitive-info-using-keystore/">Protect sensitive information or credentials using Android Keystore</a>
                 
             </h2>
             <h4 class="card-text">Understanding Authentication, Authorization, and Encryption Authentication Authentication is an absolutely essential element of a typical security model. It is the process of confirming the identification of a user (or in...</h4>
@@ -169,7 +169,7 @@
                 
                 <span class="meta-footer-thumb">
                 
-                <img class="author-thumb" src="/mediumish-theme-jekyll/assets/images/avatar.png" alt="Prashant Bale" />
+                <img class="author-thumb" src="/androidblogs/assets/images/avatar.png" alt="Prashant Bale" />
                 
                 </span>
                 <span class="author-meta">
@@ -177,7 +177,7 @@
                 
                 <span class="post-date">21 Nov 2016</span>
                 </span>
-                <span class="post-read-more"><a href="/mediumish-theme-jekyll/save-sensitive-info-using-keystore/" title="Read Story"><svg class="svgIcon-use" width="25" height="25" viewbox="0 0 25 25"><path d="M19 6c0-1.1-.9-2-2-2H8c-1.1 0-2 .9-2 2v14.66h.012c.01.103.045.204.12.285a.5.5 0 0 0 .706.03L12.5 16.85l5.662 4.126a.508.508 0 0 0 .708-.03.5.5 0 0 0 .118-.285H19V6zm-6.838 9.97L7 19.636V6c0-.55.45-1 1-1h9c.55 0 1 .45 1 1v13.637l-5.162-3.668a.49.49 0 0 0-.676 0z" fill-rule="evenodd"></path></svg></a></span>
+                <span class="post-read-more"><a href="/androidblogs/save-sensitive-info-using-keystore/" title="Read Story"><svg class="svgIcon-use" width="25" height="25" viewbox="0 0 25 25"><path d="M19 6c0-1.1-.9-2-2-2H8c-1.1 0-2 .9-2 2v14.66h.012c.01.103.045.204.12.285a.5.5 0 0 0 .706.03L12.5 16.85l5.662 4.126a.508.508 0 0 0 .708-.03.5.5 0 0 0 .118-.285H19V6zm-6.838 9.97L7 19.636V6c0-.55.45-1 1-1h9c.55 0 1 .45 1 1v13.637l-5.162-3.668a.49.49 0 0 0-.676 0z" fill-rule="evenodd"></path></svg></a></span>
                 <div class="clearfix"></div>
             </div>
         </div>
@@ -193,13 +193,13 @@
 <div class="col-lg-4 col-md-6 mb-30px card-group">
     <div class="card h-100">
         <div class="maxthumb">
-            <a href="/mediumish-theme-jekyll/certificate-pinning/">
+            <a href="/androidblogs/certificate-pinning/">
                 
             </a>
         </div>
         <div class="card-body">
             <h2 class="card-title">
-                <a class="text-dark" href="/mediumish-theme-jekyll/certificate-pinning/">Certificate and Public Key Pinning in Android</a>
+                <a class="text-dark" href="/androidblogs/certificate-pinning/">Certificate and Public Key Pinning in Android</a>
                 
             </h2>
             <h4 class="card-text">Certificate and Public Key Pinning in Android.
@@ -210,7 +210,7 @@
                 
                 <span class="meta-footer-thumb">
                 
-                <img class="author-thumb" src="/mediumish-theme-jekyll/assets/images/avatar.png" alt="Prashant Bale" />
+                <img class="author-thumb" src="/androidblogs/assets/images/avatar.png" alt="Prashant Bale" />
                 
                 </span>
                 <span class="author-meta">
@@ -218,7 +218,7 @@
                 
                 <span class="post-date">19 Nov 2016</span>
                 </span>
-                <span class="post-read-more"><a href="/mediumish-theme-jekyll/certificate-pinning/" title="Read Story"><svg class="svgIcon-use" width="25" height="25" viewbox="0 0 25 25"><path d="M19 6c0-1.1-.9-2-2-2H8c-1.1 0-2 .9-2 2v14.66h.012c.01.103.045.204.12.285a.5.5 0 0 0 .706.03L12.5 16.85l5.662 4.126a.508.508 0 0 0 .708-.03.5.5 0 0 0 .118-.285H19V6zm-6.838 9.97L7 19.636V6c0-.55.45-1 1-1h9c.55 0 1 .45 1 1v13.637l-5.162-3.668a.49.49 0 0 0-.676 0z" fill-rule="evenodd"></path></svg></a></span>
+                <span class="post-read-more"><a href="/androidblogs/certificate-pinning/" title="Read Story"><svg class="svgIcon-use" width="25" height="25" viewbox="0 0 25 25"><path d="M19 6c0-1.1-.9-2-2-2H8c-1.1 0-2 .9-2 2v14.66h.012c.01.103.045.204.12.285a.5.5 0 0 0 .706.03L12.5 16.85l5.662 4.126a.508.508 0 0 0 .708-.03.5.5 0 0 0 .118-.285H19V6zm-6.838 9.97L7 19.636V6c0-.55.45-1 1-1h9c.55 0 1 .45 1 1v13.637l-5.162-3.668a.49.49 0 0 0-.676 0z" fill-rule="evenodd"></path></svg></a></span>
                 <div class="clearfix"></div>
             </div>
         </div>
@@ -234,13 +234,13 @@
 <div class="col-lg-4 col-md-6 mb-30px card-group">
     <div class="card h-100">
         <div class="maxthumb">
-            <a href="/mediumish-theme-jekyll/mobile-application-architect-responsibilities/">
+            <a href="/androidblogs/mobile-application-architect-responsibilities/">
                 
             </a>
         </div>
         <div class="card-body">
             <h2 class="card-title">
-                <a class="text-dark" href="/mediumish-theme-jekyll/mobile-application-architect-responsibilities/">Key Responsibilities of Mobile Application Architect</a>
+                <a class="text-dark" href="/androidblogs/mobile-application-architect-responsibilities/">Key Responsibilities of Mobile Application Architect</a>
                 
             </h2>
             <h4 class="card-text">The Mobile Application Architect will be responsible for:
@@ -251,7 +251,7 @@
                 
                 <span class="meta-footer-thumb">
                 
-                <img class="author-thumb" src="/mediumish-theme-jekyll/assets/images/avatar.png" alt="Prashant Bale" />
+                <img class="author-thumb" src="/androidblogs/assets/images/avatar.png" alt="Prashant Bale" />
                 
                 </span>
                 <span class="author-meta">
@@ -259,7 +259,7 @@
                 
                 <span class="post-date">22 Oct 2016</span>
                 </span>
-                <span class="post-read-more"><a href="/mediumish-theme-jekyll/mobile-application-architect-responsibilities/" title="Read Story"><svg class="svgIcon-use" width="25" height="25" viewbox="0 0 25 25"><path d="M19 6c0-1.1-.9-2-2-2H8c-1.1 0-2 .9-2 2v14.66h.012c.01.103.045.204.12.285a.5.5 0 0 0 .706.03L12.5 16.85l5.662 4.126a.508.508 0 0 0 .708-.03.5.5 0 0 0 .118-.285H19V6zm-6.838 9.97L7 19.636V6c0-.55.45-1 1-1h9c.55 0 1 .45 1 1v13.637l-5.162-3.668a.49.49 0 0 0-.676 0z" fill-rule="evenodd"></path></svg></a></span>
+                <span class="post-read-more"><a href="/androidblogs/mobile-application-architect-responsibilities/" title="Read Story"><svg class="svgIcon-use" width="25" height="25" viewbox="0 0 25 25"><path d="M19 6c0-1.1-.9-2-2-2H8c-1.1 0-2 .9-2 2v14.66h.012c.01.103.045.204.12.285a.5.5 0 0 0 .706.03L12.5 16.85l5.662 4.126a.508.508 0 0 0 .708-.03.5.5 0 0 0 .118-.285H19V6zm-6.838 9.97L7 19.636V6c0-.55.45-1 1-1h9c.55 0 1 .45 1 1v13.637l-5.162-3.668a.49.49 0 0 0-.676 0z" fill-rule="evenodd"></path></svg></a></span>
                 <div class="clearfix"></div>
             </div>
         </div>
@@ -275,13 +275,13 @@
 <div class="col-lg-4 col-md-6 mb-30px card-group">
     <div class="card h-100">
         <div class="maxthumb">
-            <a href="/mediumish-theme-jekyll/design-pattern-builder/">
+            <a href="/androidblogs/design-pattern-builder/">
                 
             </a>
         </div>
         <div class="card-body">
             <h2 class="card-title">
-                <a class="text-dark" href="/mediumish-theme-jekyll/design-pattern-builder/">Design Pattern : Builder Design Pattern</a>
+                <a class="text-dark" href="/androidblogs/design-pattern-builder/">Design Pattern : Builder Design Pattern</a>
                 
             </h2>
             <h4 class="card-text">Builder design pattern in Java is a creational pattern i.e. used to create objects, similar to factory method design pattern which is also creational design pattern.
@@ -292,7 +292,7 @@
                 
                 <span class="meta-footer-thumb">
                 
-                <img class="author-thumb" src="/mediumish-theme-jekyll/assets/images/avatar.png" alt="Prashant Bale" />
+                <img class="author-thumb" src="/androidblogs/assets/images/avatar.png" alt="Prashant Bale" />
                 
                 </span>
                 <span class="author-meta">
@@ -300,7 +300,7 @@
                 
                 <span class="post-date">22 Oct 2016</span>
                 </span>
-                <span class="post-read-more"><a href="/mediumish-theme-jekyll/design-pattern-builder/" title="Read Story"><svg class="svgIcon-use" width="25" height="25" viewbox="0 0 25 25"><path d="M19 6c0-1.1-.9-2-2-2H8c-1.1 0-2 .9-2 2v14.66h.012c.01.103.045.204.12.285a.5.5 0 0 0 .706.03L12.5 16.85l5.662 4.126a.508.508 0 0 0 .708-.03.5.5 0 0 0 .118-.285H19V6zm-6.838 9.97L7 19.636V6c0-.55.45-1 1-1h9c.55 0 1 .45 1 1v13.637l-5.162-3.668a.49.49 0 0 0-.676 0z" fill-rule="evenodd"></path></svg></a></span>
+                <span class="post-read-more"><a href="/androidblogs/design-pattern-builder/" title="Read Story"><svg class="svgIcon-use" width="25" height="25" viewbox="0 0 25 25"><path d="M19 6c0-1.1-.9-2-2-2H8c-1.1 0-2 .9-2 2v14.66h.012c.01.103.045.204.12.285a.5.5 0 0 0 .706.03L12.5 16.85l5.662 4.126a.508.508 0 0 0 .708-.03.5.5 0 0 0 .118-.285H19V6zm-6.838 9.97L7 19.636V6c0-.55.45-1 1-1h9c.55 0 1 .45 1 1v13.637l-5.162-3.668a.49.49 0 0 0-.676 0z" fill-rule="evenodd"></path></svg></a></span>
                 <div class="clearfix"></div>
             </div>
         </div>
