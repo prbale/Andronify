@@ -3,7 +3,7 @@ name: "Andronify"
 title: "Andronify"
 description: "Mobile application development blogs."
 logo: 'assets/images/logo.png'
-baseurl: /Andronify
+baseurl: ""
 url: http://andronify.com
 google_analytics: 'UA-46278016-1'
 disqus: 'demowebsite'
