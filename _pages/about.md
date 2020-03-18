@@ -17,7 +17,7 @@ comments: false
   <p>
   I am a Mobile Application Developer currently living in Pune, India. I am also interested in innovation, design, and technology.
 
-You can click the button above to read my blog. If you’d like to get in touch, feel free to say hello through any of the social links below.
+If you’d like to get in touch, feel free to say hello through any of the social links below.
 </p>
 
   <div style="margin: 24px 0;">
