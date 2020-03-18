@@ -6,7 +6,7 @@ logo: 'assets/images/logo.png'
 baseurl: ''
 google_analytics: 'UA-46278016-1'
 disqus: 'demowebsite'
-mailchimp-list: 'https://wowthemes.us11.list-manage.com/subscribe/post?u=8aeb20a530e124561927d3bd8&amp;id=8c3d2d214b'
+# mailchimp-list: ''
 include: ["_pages"]
 permalink: /:title/
 
@@ -19,7 +19,7 @@ authors:
     gravatar: e56154546cf4be74e393c62d1ae9f9d4
     email: bale.prashant1984@gmail.com
     web: https://www.andronify.com
-    description: "Author of Mediumish, a Bootstrap Medium styled template available for WordPress, HTML, Ghost and Jekyll. You are currently previewing Jekyll template demo."
+    description: "Software Developer, Nature Lover, Trekker, Traveller, Photographer"
 
 # Plugins
 plugins:
