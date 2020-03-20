@@ -1,0 +1,118 @@
+I"Ê<p><strong>Sealed classes</strong> in Kotlin are another new concept which was not there in Java. As the name suggests, sealed classes are closed and making them restricted or bounded class hierarchies.</p>
+
+<p>Restricted means, we have specific number of sub classes similar to Enum. But the major difference between Enum and Sealed classes are in the enum we only have one instance per type whereas sealed classes can have multiple instances of the same class.</p>
+
+<p>Sealed classes ensure type-safety by restricting the types to be matched at compile-time rather than at runtime.</p>
+
+<hr />
+
+<p>Declaration of Sealed Class:</p>
+
+<p>To define a sealed class, just precede the class modifier with the sealed keyword.</p>
+
+<p><code class="highlighter-rouge">sealed class Demo</code></p>
+
+<blockquote>
+  <p>The sealed classes also have one another distinct feature, their constructors are private by default.</p>
+</blockquote>
+
+<hr />
+
+<p>A sealed class is implicitly abstract and hence it cannot be instantiated.</p>
+
+<div class="highlighter-rouge"><div class="highlight"><pre class="highlight"><code><table class="rouge-table"><tbody><tr><td class="rouge-gutter gl"><pre class="lineno">1
+2
+3
+4
+5
+</pre></td><td class="rouge-code"><pre>sealed class Demo
+fun main(args: Array)
+{
+    var demo = Demo()     //compiler error
+}
+</pre></td></tr></tbody></table></code></pre></div></div>
+<hr />
+
+<p>Lets consider Enum example and then we will discuss what benefits Sealed classes are giving us.</p>
+
+<p>Using Enum,</p>
+
+<div class="highlighter-rouge"><div class="highlight"><pre class="highlight"><code><table class="rouge-table"><tbody><tr><td class="rouge-gutter gl"><pre class="lineno">1
+2
+3
+4
+</pre></td><td class="rouge-code"><pre>enum class Result(val message: String) {
+    SUCCESS("Success message"),
+    ERROR("Error message")
+}
+</pre></td></tr></tbody></table></code></pre></div></div>
+<p>But,</p>
+<div class="highlighter-rouge"><div class="highlight"><pre class="highlight"><code><table class="rouge-table"><tbody><tr><td class="rouge-gutter gl"><pre class="lineno">1
+2
+3
+4
+</pre></td><td class="rouge-code"><pre>enum class Result(val message: String) {
+    SUCCESS("Success message"),
+    ERROR(val exception: Exception) // This is not possible using Enum.
+}
+</pre></td></tr></tbody></table></code></pre></div></div>
+<p>To solve above issue, we need sealed classes.</p>
+
+<div class="highlighter-rouge"><div class="highlight"><pre class="highlight"><code><table class="rouge-table"><tbody><tr><td class="rouge-gutter gl"><pre class="lineno">1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+</pre></td><td class="rouge-code"><pre>sealed class Result() {
+    class SUCCESS(val message: String): Result()
+    class ERROR(val errormessage: String): Result()
+}
+
+fun eval(c: Result) =
+    when (c) {
+        is Result.SUCCESS -&gt; println(c.message)
+        is Result.ERROR -&gt; println(c.errormessage)
+        else -&gt; println("Else Part")
+	}
+
+fun main() {
+    val result = Result.SUCCESS("Successful message !!")
+    eval(result)
+
+	val error1 = Result.ERROR("404 Error !!")
+    eval(error1)
+
+	val error2 = Result.ERROR("501 Error !!")
+    eval(error2)
+}
+</pre></td></tr></tbody></table></code></pre></div></div>
+
+<p>You might think, Can we use Abstract class over Sealed class. But there is one benefit which makes the Sealed class win again.</p>
+
+<p>Yes, Sealed classes are abstract and cannot be instantiated directly. But abstract classes can have their hierarchies anywhere in the project. And Sealed classes should contain all the hierarchies at the single place. This will also makes the code more restricted hence cleaner.</p>
+
+<blockquote>
+  <p>Sealed classes help us to write clean and concise code!</p>
+</blockquote>
+
+<p>Thank you.</p>
+
+<p>Happy Coding.. !!</p>
+:ET
