@@ -1,5 +1,0 @@
-I"3<p>Sealed classes in Kotlin are another new concept which was not there in Java. As the name suggests, sealed classes are closed and making them restricted or bounded class hierarchies.</p>
-
-<p>Restricted means, we have specific number of sub classes similar to Enum. But the major difference between Enum and Sealed classes are in the enum we only have one instance per type whereas sealed classes can have multiple instances of the same class.
-Sealed classes ensure type-safety by restricting the types to be matched at compile-time rather than at runtime.</p>
-:ET
