@@ -2,6 +2,7 @@
 layout: post
 title:  "Understanding Authentication, Authorization, and Encryption"
 author: prashant
+image: assets/images/auth.png
 categories: [ Authentication, Authorization, Encryption ]
 ---
 Understanding Authentication, Authorization, and Encryption
