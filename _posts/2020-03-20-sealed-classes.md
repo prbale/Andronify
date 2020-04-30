@@ -2,7 +2,7 @@
 layout: post
 title:  "Kotlin Sealed Class"
 author: prashant
-featured: true
+featured: false
 image: assets/images/kotlin-sealed-class-banner.png
 categories: [ coding, development, kotlin ]
 ---
