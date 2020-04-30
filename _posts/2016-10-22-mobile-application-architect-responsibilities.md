@@ -2,6 +2,7 @@
 layout: post
 title:  "Key Responsibilities of Mobile Application Architect"
 author: prashant
+image: assets\images\application-architect.jpg
 categories: [ Mobile Architect ]
 ---
 The Mobile Application Architect will be responsible for:
