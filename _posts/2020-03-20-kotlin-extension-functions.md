@@ -5,6 +5,7 @@ author: prashant
 featured: false
 image: assets/images/android_kotlin_extension.jpg
 categories: [ coding, development, kotlin ]
+tags: featured
 ---
 
 

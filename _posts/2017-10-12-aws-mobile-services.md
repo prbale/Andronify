@@ -1,10 +1,10 @@
 ---
 layout: post
 title:  "AWS Mobile Services"
-author: prashant
+author: shraddha
 categories: [ aws ]
 image: assets/images/aws_mobile_services_diagram.jpg
-hidden: true
+tags: featured
 ---
 
 There are few AWS services listed below which can be used in mobile applications so that applications are sophisticated cloud-powered.

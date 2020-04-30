@@ -4,6 +4,7 @@ title:  "Design Pattern : Builder Design Pattern"
 author: prashant
 image: assets\images\builder_design_pattern.jpg
 categories: [ coding, development, design pattern ]
+tags: [sticky]
 ---
 
 

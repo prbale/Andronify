@@ -5,6 +5,7 @@ author: prashant
 featured: false
 image: assets/images/kotlin-sealed-class-banner.png
 categories: [ coding, development, kotlin ]
+tags: featured
 ---
 
 **Sealed classes** in Kotlin are another new concept which was not there in Java. As the name suggests, sealed classes are closed and making them restricted or bounded class hierarchies.

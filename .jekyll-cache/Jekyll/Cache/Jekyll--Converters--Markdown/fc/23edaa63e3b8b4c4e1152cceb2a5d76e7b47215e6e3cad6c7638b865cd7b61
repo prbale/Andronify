@@ -1,3 +1,0 @@
-I"]<p>The <strong>Android keystore</strong> provides secure system level credential storage. With the keystore, an application creates a new Private/Public key pair, and uses this to encrypt application secrets before saving it in the private storage. We will learn how to use Android keystore to create and delete keys also how to encrypt the user sensitive data using these keys.
-The Keystore system is used by the KeyChain API as well as the Android Keystore provider feature that was introduced in Android 4.3 (API level 18). This document goes over when and how to use the Android Keystore provider</p>
-:ET
