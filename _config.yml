@@ -3,7 +3,7 @@ name: 'Andronify'
 description: 'Technical Blogs'
 logo: 'assets/images/logo.png'
 favicon: 'assets/images/favicon.ico'
-baseurl: '/home'
+baseurl: ''
 disqus: ''
 email: 'bale.prashant1984@gmail.com'
 mailchimp-list: ''
@@ -22,7 +22,7 @@ authors:
     prashant:
       name:           prashant
       site:           https://www.andronify.com
-      avatar:         /assets/images/prashant.jpg
+      avatar:         ../assets/images/prashant.jpg
       bio:            "Hi, I am Prashant Bale, Traveller, Trekker, Nature Lover and Android Developer."
       email:          bale.prashant1984@gmail.com
       twitter:        https://twitter.com/prash_bale
@@ -30,7 +30,7 @@ authors:
     shraddha:
       name:           shraddha
       site:           https://www.andronify.com
-      avatar:         /assets/images/shraddha.jpg
+      avatar:         ../assets/images/shraddha.jpg
       bio:            "Blogger, Shraddha Bale, love to explore new ideas and write on my morning coffee!"
       email:          scbagde@gmail.com
       twitter:        https://twitter.com/shraddhabagde
