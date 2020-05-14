@@ -50,8 +50,7 @@ Tools and General Advise:
  To add this template to GitHub project, You just have to create "pull-request-template.md" file in root directory.
  Below is the sample format for the PR template.
 
- ```
-
+```
 # Description
 
 Please include a explaination of the change. Please also include relevant motivation and context. List any dependencies that are required for this change.
@@ -79,4 +78,9 @@ Please describe the tests that you ran to verify your changes. Provide instructi
 - [ ] I have commented my code, particularly in hard-to-understand areas
 - [ ] I have made corresponding changes to the documentation
 - [ ] Unit test cases added for this change.
-- [ ] Considered accessibility for UI change                                                                                                                                                                                                      - [ ] There are no merge conflicts                                                                                                                                                                                                                                                              .                                                                                                                                                                                      # Impacted Areas in Application                                                         List general components of the application that this PR will affect.
+- [ ] Considered accessibility for UI change
+- [ ] There are no merge conflicts
+
+# Impacted Areas in Application
+List general components of the application that this PR will affect.
+```
