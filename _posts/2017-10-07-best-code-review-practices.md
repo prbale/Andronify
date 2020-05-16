@@ -3,9 +3,8 @@ layout: post
 title:  "Best practices for Code Review"
 author: shraddha
 featured: true
-image: assets/images/code_review.jpg
+image: assets/images/code_review_banner.png
 categories: [ coding, development ]
-tags: featured
 ---
 
 Benefits of Code Review
